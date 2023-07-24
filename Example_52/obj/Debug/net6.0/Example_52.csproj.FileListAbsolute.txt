@@ -1,0 +1,15 @@
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.csproj.AssemblyReference.cache
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.AssemblyInfoInputs.cache
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.AssemblyInfo.cs
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.csproj.CoreCompileInputs.cache
+D:\C#\HomeworkC#_7\Example_52\bin\Debug\net6.0\Example_52.exe
+D:\C#\HomeworkC#_7\Example_52\bin\Debug\net6.0\Example_52.deps.json
+D:\C#\HomeworkC#_7\Example_52\bin\Debug\net6.0\Example_52.runtimeconfig.json
+D:\C#\HomeworkC#_7\Example_52\bin\Debug\net6.0\Example_52.dll
+D:\C#\HomeworkC#_7\Example_52\bin\Debug\net6.0\Example_52.pdb
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.dll
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\refint\Example_52.dll
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.pdb
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\Example_52.genruntimeconfig.cache
+D:\C#\HomeworkC#_7\Example_52\obj\Debug\net6.0\ref\Example_52.dll

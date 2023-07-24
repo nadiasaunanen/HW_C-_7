@@ -18,10 +18,10 @@ for (int i = 0; i < m; i++)
 }
 
 
-// Не получается сделать через методы, выходят ошибки, никак не могу понятьЮ, как исправить. 
+// Не получается сделать через методы, выходят ошибки, никак не могу понять, как исправить. 
 // Ниже привела вариант, но он не работает.
 
-
+// int[,] matrix = GetMatrix(rows, columns, minRandom, maxRandom);
 
 // double[,] matrix = GetMatrix(m, n);
 
@@ -31,7 +31,7 @@ for (int i = 0; i < m; i++)
 //     {
 //         for (int j = 0; j < n; j++) 
 //         {
-//             matrix[i,j] = Random.NextDouble() * 100;
+//             matrix[i,j] = random.NextDouble() * 100;
 //         }
 //         return matrix;
 //     }
